@@ -1,6 +1,9 @@
 # Advanced-Predator-Prey
 This repository contains an enhanced predator-prey simulation model implemented using the GAMA platform. The project builds upon traditional models by introducing advanced features to improve ecological realism and agent adaptability. It serves as a tool for studying complex predator-prey dynamics, emergent behaviors, and the impact of environmental factors on species survival.
 
+![image](https://github.com/user-attachments/assets/8310a498-a3b5-4680-827a-9fdba37b330a)
+
+
 ## Features
 
 * Environmental Heterogeneity:
